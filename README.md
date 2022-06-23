@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- :briefcase: During business hours I’m working as a Development Manager at (https://bustle.tech)[Bustle] 
+
+- :seedling: In my free time, I'm working on a hobby SaaS project to give software development businesses (ours included) more visibility of how they're progressing
+
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mr-Jabes&theme=dark)](https://git.io/streak-stats)
+</div>
+
+<div align="center">
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Jabes&show_icons=true&theme=radical)
+</div>
