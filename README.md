@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :briefcase: During business hours I’m working as a Development Manager at (https://bustle.tech)[Bustle] 
+- :briefcase: During business hours I’m working as a Development Manager at [Bustle](https://bustle.tech)
 
 - :seedling: In my free time, I'm working on a hobby SaaS project to give software development businesses (ours included) more visibility of how they're progressing
 
@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Jabes&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Jabes&show_icons=true&theme=radical)
 </div>
