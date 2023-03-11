@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: &nbsp;About Me :
 
-:briefcase: During business hours I’m working as a Development Manager at [Bustle](https://bustle.tech)
+:briefcase: During business hours I’m working as the CTO for [Bustle](https://bustle.tech)
 
 :seedling: In my free time, I'm working on a hobby SaaS project to give software development businesses (ours included) more visibility of how they're progressing
 
