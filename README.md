@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 :briefcase: During business hours I’m working as the CTO for [Bustle](https://bustle.tech)
 
-:seedling: In my free time, I'm working on a hobby SaaS project to give software development businesses (ours included) more visibility of how they're progressing
-
 ---
 ### 🛠 &nbsp;Languages and Tools:
 <div align="center">
